@@ -3,7 +3,7 @@ import React, { useState } from "react";
 function Counter() {
   // Declares a new state variable, which we will call "count"
   // Declares a setCount function that allows you to modify the count value
-  const[count, setCount] = useState(0);
+  const[count, setCount] = useState(4);
 
    const handleCountChange = ((e) => setCount(parseInt(e.target.value)));
  
