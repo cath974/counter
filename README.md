@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://happy-nobel-7de08f.netlify.com/]()
+* Link to the website deployed on Netlify : [https://happy-nobel-7de08f.netlify.app/]()
